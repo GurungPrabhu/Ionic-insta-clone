@@ -1,6 +1,6 @@
 import { IonContent, IonPage } from "@ionic/react";
-import { Header } from "../components";
-import { NftHeader } from "../components/nft-owner";
+import { Header, TextContent } from "../components";
+import { NftCard } from "../components/nft-owner";
 import "./Home.css";
 
 const Home: React.FC = () => {
@@ -8,7 +8,8 @@ const Home: React.FC = () => {
     <IonPage>
       <Header />
       <IonContent>
-        <NftHeader />
+        <NftCard />
+        <TextContent />
       </IonContent>
     </IonPage>
   );

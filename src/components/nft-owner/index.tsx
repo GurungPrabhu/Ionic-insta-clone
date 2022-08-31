@@ -2,7 +2,7 @@ import React from "react";
 import { IonCard, IonImg, IonText } from "@ionic/react";
 import "./style.css";
 
-const NftHeader: React.FC = () => {
+const NftCard: React.FC = () => {
   return (
     <IonCard className="nft-card">
       <IonText color="light" className="nft-card__header">
@@ -13,4 +13,4 @@ const NftHeader: React.FC = () => {
     </IonCard>
   );
 };
-export { NftHeader };
+export { NftCard };
