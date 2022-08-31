@@ -1,0 +1,7 @@
+{
+  "name": "insta-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

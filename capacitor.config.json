@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "insta-clone",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
