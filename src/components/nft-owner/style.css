@@ -1,0 +1,25 @@
+.nft-card {
+  background-color: #ba6767;
+  color: white;
+  padding: 0.5rem;
+}
+
+.nft-card__header * {
+  font-size: 3rem;
+  text-align: center;
+  margin: 2rem 0.25rem 0.25rem 0.25rem;
+  margin-inline: auto;
+}
+
+.nft__image {
+  width: 200px;
+  height: auto;
+  margin: 2rem auto 1rem auto;
+}
+
+.nft__sign {
+  font-size: 7px;
+  line-height: 8px;
+  width: 58px;
+  margin-left: auto;
+}
