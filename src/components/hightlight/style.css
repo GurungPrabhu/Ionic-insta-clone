@@ -1,0 +1,11 @@
+.highlight {
+  width: 100%;
+  font-weight: 800;
+  color: #b33535;
+  -webkit-text-stroke-width: 0.1px;
+  -webkit-text-stroke-color: white;
+  padding: 0.25rem 0;
+  background-color: #fca9a9;
+  border-top: 3px solid #b33535;
+  border-bottom: 3px solid #b33535;
+}
