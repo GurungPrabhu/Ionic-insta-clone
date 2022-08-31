@@ -1,0 +1,11 @@
+.nft-card-collection {
+  border-radius: 3px;
+}
+
+.nft-img {
+  padding: 1rem;
+}
+
+.nft-card-footer {
+  flex-direction: row-reverse;
+}
