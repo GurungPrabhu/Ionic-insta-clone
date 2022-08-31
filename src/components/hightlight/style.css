@@ -1,6 +1,7 @@
 .highlight {
   width: 100%;
   font-weight: 800;
+  text-align: center;
   color: #b33535;
   -webkit-text-stroke-width: 0.1px;
   -webkit-text-stroke-color: white;

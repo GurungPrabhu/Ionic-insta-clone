@@ -10,10 +10,18 @@ const Home: React.FC = () => {
     <IonPage>
       <Header />
       <IonContent>
-        <NftCard />
-        <TextContent />
-        <HightLight />
-        <NftCardCollection />
+        <div className="section">
+          <NftCard />
+        </div>
+        <div className="section">
+          <TextContent />
+        </div>
+        <div className="section">
+          <HightLight />
+        </div>
+        <div className="section">
+          <NftCardCollection />
+        </div>
       </IonContent>
     </IonPage>
   );
